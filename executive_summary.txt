@@ -1,0 +1,9 @@
+* Integrated seven distinct relational e-commerce datasets into a master fact table comprising 27,833 transaction line items.
+* Performed rigorous data cleaning, handling null values, eliminating duplicate entries, and standardizing product categories.
+* Parsed mixed date formats and cleaned currency fields to ensure absolute numerical and chronological integrity.
+* Conducted exploratory data analysis (EDA) to evaluate total revenue, transaction counts, and average order values (AOV).
+* Discovered that top-performing merchandise categories drive over 60% of total store sales volume.
+* Identified distinct regional demand imbalances, showing that metropolitan hubs heavily outperform regional zones.
+* Highlighted the increased basket size and lifetime value of repeat shoppers compared to one-time buyers.
+* Visualized key findings using a 16:9 widescreen ($1920\times 1080$) executive dashboard.
+* Provided strategic recommendations focused on targeted regional marketing and inventory risk management.
